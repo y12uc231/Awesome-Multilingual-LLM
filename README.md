@@ -11,6 +11,7 @@ The repository is designed to support the growing interest within the community 
 6. [Datasets And Benchmarks](#section6)
 7. [Translation and Language Understanding](#section7)
 8. [Safety](#section8)
+9. [Miscellaneous Studies and Surveys](#section9)
 
 
 ### **In-Context Learning and Prompting Strategies** <a name="section1"></a>
@@ -75,5 +76,5 @@ The repository is designed to support the growing interest within the community 
 ###  **Safety** <a name="section8"></a>
 - [2023] [Multilingual Jailbreak Challenges in Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.06474): Explores multilingual jailbreak challenges in LLMs, addressing both unintentional and intentional risks, and proposes a safety fine-tuning framework.
 
-### 8. **Miscellaneous Studies and Surveys** <a name="section8"></a>
+### **Miscellaneous Studies and Surveys** <a name="section9"></a>
 - [Pahune et al.](https://dx.doi.org/10.22214/ijraset.2023.54677): Emphasizes recent developments and efforts made for various kinds of LLMs, including multilingual language models.
