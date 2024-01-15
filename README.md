@@ -10,15 +10,13 @@ The repository is designed to support the growing interest within the community 
 5. [Comparative Studies and Benchmarks](#section5)
 6. [Datasets And Benchmarks](#section6)
 7. [Translation and Language Understanding](#section7)
-8. [Miscellaneous Studies and Surveys](#section8)
+8. [Safety](#section8)
 
 
-### 1. **In-Context Learning and Prompting Strategies** <a name="section1"></a>
+### **In-Context Learning and Prompting Strategies** <a name="section1"></a>
 - [2024] [Boosting Many-to-Many Multilingual Translation Performance with Large Language Models via Prompt Strategies and Cross-Lingual Consistency Regularization (XConST)](https://arxiv.org/abs/2401.05861) by Pengzhi Gao et al.
 - [2023] [Stereotypes in Multilingual Large Language Models and Cross-Linguistic Leakage](https://dx.doi.org/10.48550/arXiv.2312.07141): Investigates the presence of stereotypes in multilingual LLMs and their cross-linguistic leakage, with an analysis of different languages' susceptibility.
-- [2023] [Multilingual Jailbreak Challenges in Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.06474): Explores multilingual jailbreak challenges in LLMs, addressing both unintentional and intentional risks, and proposes a safety fine-tuning framework.
 - [2023] [All Languages Matter: On the Multilingual Safety of Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.00905): Develops a multilingual safety benchmark for LLMs, demonstrating the need for safety alignment in non-English languages.
-- [2023] [CulturaX: A Large, Multilingual Dataset for Training Large Language Models](https://dx.doi.org/10.48550/arXiv.2309.09400): Introduces CulturaX, a large, multilingual dataset for training LLMs in 167 languages, emphasizing quality with careful data cleaning and deduplication.
 - [2023] [Multilingual Code Co-evolution using Large Language Models](https://dx.doi.org/10.1145/3611643.3616350): Discusses the co-evolution of code in multiple languages using LLMs.
 - [2023] [Prompting Large Language Models with Speech Recognition Abilities](https://dx.doi.org/10.48550/arXiv.2307.11795): Presents a method to enhance LLMs with multilingual speech recognition capabilities using a small audio encoder.
 - [2023] [M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Large Language Models](https://dx.doi.org/10.48550/arXiv.2306.05179): Introduces a comprehensive benchmark for evaluating the performance of LLMs across diverse languages.
@@ -32,21 +30,22 @@ The repository is designed to support the growing interest within the community 
 - [2022] [BigScience: Social Construction of a Multilingual Large Language Model](https://dx.doi.org/10.48550/arXiv.2212.04960): Discusses BigScience, a collaborative project that created a multilingual dataset and trained BLOOM, a multilingual LLM.
 - [2022] [Bootstrapping Multilingual Semantic Parsers using Large Language Models](https://dx.doi.org/10.48550/arXiv.2210.07313): Examines the effectiveness of LLMs in translating English datasets into multiple languages for multilingual semantic parsing. 
 
-### 2. **Performance and Capabilities in Specific Languages** <a name="section2"></a>
+###  **Performance and Capabilities in Specific Languages** <a name="section2"></a>
 - [Holmström et al.](https://www.aclweb.org/anthology/2023.resourceful-1.13): Explores the performance of English and multilingual LLMs in Swedish.
 
-### 3. **Challenges and Limitations in Multilingual LLMs** <a name="section3"></a>
+### **Challenges and Limitations in Multilingual LLMs** <a name="section3"></a>
 - [Zhu et al.](https://dx.doi.org/10.48550/arXiv.2304.04675): Investigates the advantages and challenges in multilingual machine translation using LLMs.
 
-### 4. **Multilingual LLMs in Programming and Code** <a name="section4"></a>
+### **Multilingual LLMs in Programming and Code** <a name="section4"></a>
 - [Joshi et al.](https://dx.doi.org/10.48550/arXiv.2208.11640): Introduces RING, a multilingual repair engine powered by a language model trained on code.
 
-### 5. **Comparative Studies and Benchmarks** <a name="section5"></a>
+### **Comparative Studies and Benchmarks** <a name="section5"></a>
 - [Ahuja et al.](https://dx.doi.org/10.48550/arXiv.2211.05100): Discusses the development and evaluation of BLOOM, a 176B-parameter open-access multilingual language model.
 - [Lai et al.](https://dx.doi.org/10.48550/arXiv.2304.05613): Evaluates ChatGPT and other LLMs on multilingual NLP tasks.
 
-### 6. **Datasets And Benchmarks** <a name="section6"></a>
+### **Datasets And Benchmarks** <a name="section6"></a>
 
+- [2023] [CulturaX: A Large, Multilingual Dataset for Training Large Language Models](https://dx.doi.org/10.48550/arXiv.2309.09400): Introduces CulturaX, a large, multilingual dataset for training LLMs in 167 languages, emphasizing quality with careful data cleaning and deduplication.
 - [Ladhak et al.](https://dx.doi.org/10.18653/v1/2020.findings-emnlp.360) - Introduces WikiLingua, a benchmark dataset for cross-lingual abstractive summarization in 18 languages from WikiHow (2020).
 - [Gupta and Srikumar](https://dx.doi.org/10.18653/v1/2021.acl-short.86) - Presents X-Fact, a multilingual dataset for factual verification in 25 languages labeled for veracity by expert fact-checkers (2021).
 - [Nguyen et al.](https://dx.doi.org/10.48550/arXiv.2309.09400) - Proposes CulturaX, with 6.3 trillion tokens in 167 languages, for training multilingual LLMs (2023).
@@ -69,10 +68,12 @@ The repository is designed to support the growing interest within the community 
 - [Kuzman et al.](https://arxiv.org/abs/2201.03857) - Introduces the GINCO training dataset for automatic genre identification of web documents (2022).
 
 
-
-### 7. **Translation and Language Understanding** <a name="section7"></a>
+###  **Translation and Language Understanding** <a name="section7"></a>
 - [Guerreiro et al.](https://dx.doi.org/10.1162/tacl_a_00615): Provides insights into the presence of hallucinations in multilingual translation models.
 - [Li et al.](https://dx.doi.org/10.48550/arXiv.2305.15083): Discusses the translation abilities of large language models in multilingual contexts.
+
+###  **Safety** <a name="section8"></a>
+- [2023] [Multilingual Jailbreak Challenges in Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.06474): Explores multilingual jailbreak challenges in LLMs, addressing both unintentional and intentional risks, and proposes a safety fine-tuning framework.
 
 ### 8. **Miscellaneous Studies and Surveys** <a name="section8"></a>
 - [Pahune et al.](https://dx.doi.org/10.22214/ijraset.2023.54677): Emphasizes recent developments and efforts made for various kinds of LLMs, including multilingual language models.
