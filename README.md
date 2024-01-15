@@ -75,6 +75,24 @@ The repository is designed to support the growing interest within the community 
 - [Li et al.](https://dx.doi.org/10.48550/arXiv.2305.15083): Discusses the translation abilities of large language models in multilingual contexts.
 
 ###  **Instruction Tuning** <a name="section8"></a>
+- [2023] [TaCo: Translation-Assisted Cross-Linguality for Instruction-Tuning LLMs](https://dx.doi.org/10.48550/arXiv.2311.10797) - Discusses TaCo, a method using translation to instruction-tune LLMs on new languages.
+- [2023] [M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning](https://dx.doi.org/10.48550/arXiv.2306.04387) - Introduces M^3IT dataset for optimizing alignment between vision-language models and human instructions.
+- [2023] [Instruction Tuning for Multilingual Large Language Models](https://dx.doi.org/10.48550/arXiv.2309.08958) - Explores the importance of multilingual instruction tuning for LLMs' robustness.
+- [2023] [MoDS: Model-oriented Data Selection for Instruction Tuning](https://dx.doi.org/10.48550/arXiv.2311.15653) - Presents a data selection approach for instruction tuning in LLMs.
+- [2023] [Instruction Fine-tuning for LLMs](https://dx.doi.org/10.48550/arXiv.2310.00492) - Investigates the impacts of instruction fine-tuning on LLMs.
+- [2023] [PVIT: Position-enhanced Visual Instruction Tuning for Multimodal LLMs](https://dx.doi.org/10.48550/arXiv.2308.13437) - Proposes PVIT, a method for fine-grained cross-modal alignment in MLLMs.
+- [2023] [ChatSpot: A Multimodal LLM Supporting Precise Referring Instructions](https://dx.doi.org/10.48550/arXiv.2307.09474) - Discusses a multimodal LLM for precise instruction following.
+- [2023] [OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs](https://dx.doi.org/10.48550/arXiv.2309.03876) - Presents OpinionGPT, a model for investigating biases in instruction-tuned LLMs.
+- [2023] [Instruction Tuning for Writing Assistance with LLaMa](https://dx.doi.org/10.48550/arXiv.2305.13225) - Focuses on fine-tuning LLaMa for writing tasks using instruction tuning.
+- [2023] [Low Training Data Instruction Tuning for LLMs](https://dx.doi.org/10.48550/arXiv.2305.09246) - Explores task-specific model training with minimal data.
+- [2023] [Instruct-FinGPT: Financial Sentiment Analysis by Instruction Tuning of LLMs](https://dx.doi.org/10.48550/arXiv.2306.12659) - Introduces a method to improve LLMs' accuracy in financial sentiment analysis.
+- [2023] [GraphGPT: Graph Instruction Tuning for LLMs](https://dx.doi.org/10.48550/arXiv.2310.13023) - Presents GraphGPT for aligning LLMs with graph structural knowledge.
+- [2023] [CoEdIT: Text Editing by Task-Specific Instruction Tuning](https://dx.doi.org/10.48550/arXiv.2305.09857) - Introduces a text editing system using instruction-tuned LLMs.
+- [2023] [PMC-VQA: Visual Instruction Tuning for Medical VQA](https://dx.doi.org/10.48550/arXiv.2305.10415) - Focuses on visual instruction tuning for Medical Visual Question Answering.
+- [2023] [FIAT: Fusing Learning Paradigms with Instruction-Accelerated Tuning](https://dx.doi.org/10.48550/arXiv.2309.04663) - Proposes FIAT, a new learning paradigm for LLMs.
+- [2023] [LLaMA-Adapter: Efficient Fine-Tuning of Language Models](https://dx.doi.org/10.48550/arXiv.2303.16199) - Introduces LLaMA-Adapter for efficient fine-tuning of language models.
+- [2023] [Otter: A Multi-Modal Model with In-Context Instruction Tuning](https://dx.doi.org/10.48550/arXiv.2305.03726) - Discusses Otter, a model for multi-modal in-context instruction tuning.
+- [2023] [Instruction Tuning with GPT-4](https://dx.doi.org/10.48550/arXiv.2304.03277) - Presents the use of GPT-4 for generating instruction-following data.
 
 ###  **Safety** <a name="section9"></a>
 - [2023] [Stereotypes in Multilingual Large Language Models and Cross-Linguistic Leakage](https://dx.doi.org/10.48550/arXiv.2312.07141): Investigates the presence of stereotypes in multilingual LLMs and their cross-linguistic leakage, with an analysis of different languages' susceptibility.
