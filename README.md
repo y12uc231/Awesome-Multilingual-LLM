@@ -16,7 +16,6 @@ The repository is designed to support the growing interest within the community 
 
 ### **In-Context Learning and Prompting Strategies** <a name="section1"></a>
 - [2024] [Boosting Many-to-Many Multilingual Translation Performance with Large Language Models via Prompt Strategies and Cross-Lingual Consistency Regularization (XConST)](https://arxiv.org/abs/2401.05861) by Pengzhi Gao et al.
-- [2023] [Stereotypes in Multilingual Large Language Models and Cross-Linguistic Leakage](https://dx.doi.org/10.48550/arXiv.2312.07141): Investigates the presence of stereotypes in multilingual LLMs and their cross-linguistic leakage, with an analysis of different languages' susceptibility.
 - [2023] [All Languages Matter: On the Multilingual Safety of Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.00905): Develops a multilingual safety benchmark for LLMs, demonstrating the need for safety alignment in non-English languages.
 - [2023] [Multilingual Code Co-evolution using Large Language Models](https://dx.doi.org/10.1145/3611643.3616350): Discusses the co-evolution of code in multiple languages using LLMs.
 - [2023] [Prompting Large Language Models with Speech Recognition Abilities](https://dx.doi.org/10.48550/arXiv.2307.11795): Presents a method to enhance LLMs with multilingual speech recognition capabilities using a small audio encoder.
@@ -28,7 +27,6 @@ The repository is designed to support the growing interest within the community 
 - [2023] [Multilingual Machine Translation with LLMs: Empirical Results and Analysis](https://dx.doi.org/10.48550/arXiv.2304.04675): Investigates the use of LLMs for multilingual machine translation, evaluating popular models including ChatGPT and GPT-4.
 - [2023] [Implications of LLMs for Dental Medicine](https://dx.doi.org/10.1111/jerd.13046): Discusses the potential benefits and risks of using LLMs like ChatGPT for dental medicine, with a focus on multilingual communication.
 - [2023] [Massively Multilingual Shallow Fusion with LLMs](https://dx.doi.org/10.1109/ICASSP49357.2023.10094796): Explores using a single multilingual language model to improve automatic speech recognition in multiple languages.
-- [2022] [BigScience: Social Construction of a Multilingual Large Language Model](https://dx.doi.org/10.48550/arXiv.2212.04960): Discusses BigScience, a collaborative project that created a multilingual dataset and trained BLOOM, a multilingual LLM.
 - [2022] [Bootstrapping Multilingual Semantic Parsers using Large Language Models](https://dx.doi.org/10.48550/arXiv.2210.07313): Examines the effectiveness of LLMs in translating English datasets into multiple languages for multilingual semantic parsing. 
 
 ###  **Performance and Capabilities in Specific Languages** <a name="section2"></a>
@@ -54,19 +52,19 @@ The repository is designed to support the growing interest within the community 
 - [Wang et al.](https://dx.doi.org/10.48550/arXiv.2308.13387) - Proposes a dataset for evaluating safeguards in LLMs and trains classifiers achieving results similar to GPT-4 (2023).
 - [Laperriere et al.](https://www.aclweb.org/anthology/2022.lrec-1.171) - Updates the French MEDIA SLU dataset for spoken language understanding, integrated into the SpeechBrain toolkit (2022).
 - [Hu et al.](https://dx.doi.org/10.1162/tacl_a_00609) - Introduces the Multi3WOZ dataset for training and evaluating multilingual and cross-lingual task-oriented dialog systems (2023).
+- [2023](https://dx.doi.org/10.48550/arXiv.2303.12528) - Presents MEGA, benchmarking generative LLMs across 70 languages and comparing them to non-autoregressive models (2023).
+- [2023](https://dx.doi.org/10.48550/arXiv.2309.07462) - Investigates Large Language Model-based evaluators for multilingual evaluation, highlighting bias and calibration needs (2023).
+- [2023](https://dx.doi.org/10.48550/arXiv.2305.13194) - Proposes the SEAHORSE dataset for evaluating multilingual, multifaceted summarization systems (2023).
+- [2023](https://dx.doi.org/10.18653/v1/2023.semeval-1.87) - Proposes MINT, a multilingual textual intimacy dataset with tweets in 10 languages (2023).
+- [2023](https://dx.doi.org/10.48550/arXiv.2304.05613) - Evaluates ChatGPT on 37 languages across 7 tasks, revealing a performance gap compared to previous models (2023).
+- [2023](https://dx.doi.org/10.48550/arXiv.2308.09954) - Proposes Eva-KELLM, a benchmark for evaluating knowledge editing in LLMs with a focus on cross-lingual knowledge transfer (2023).
+- [2023](https://dx.doi.org/10.1007/s10579-023-09696-7) - Discusses the ComMA dataset, a multilingual dataset annotated with tags for different types of aggression and bias in four languages (2023).
+- [2023](https://arxiv.org/abs/2201.03857) - Introduces the GINCO training dataset for automatic genre identification of web documents.
+- [2022](https://dx.doi.org/10.48550/arXiv.2208.11640) - Introduces RING, a multilingual repair engine powered by a large language model trained on code for program repair in multiple languages (2022).
+- [2022](https://dx.doi.org/10.48550/arXiv.2211.05955) - Introduces MEE, a Multilingual Event Extraction dataset with over 50K event mentions in 8 languages (2022).
+- [Bang et al.](https://arxiv.org/abs/2302.04023) - Presents a framework for evaluating interactive LLMs using a newly designed multimodal dataset.
+- [2022] [BigScience: Social Construction of a Multilingual Large Language Model](https://dx.doi.org/10.48550/arXiv.2212.04960): Discusses BigScience, a collaborative project that created a multilingual dataset and trained BLOOM, a multilingual LLM.
 - [Zhu et al.](https://dx.doi.org/10.1609/aaai.v36i10.21434) - Proposes the CoST dataset with parallel data from 7 programming languages for code snippet translation (2022).
-- [Ahuja et al.](https://dx.doi.org/10.48550/arXiv.2303.12528) - Presents MEGA, benchmarking generative LLMs across 70 languages and comparing them to non-autoregressive models (2023).
-- [Pouran Ben Veyseh et al.](https://dx.doi.org/10.48550/arXiv.2211.05955) - Introduces MEE, a Multilingual Event Extraction dataset with over 50K event mentions in 8 languages (2022).
-- [Hada et al.](https://dx.doi.org/10.48550/arXiv.2309.07462) - Investigates Large Language Model-based evaluators for multilingual evaluation, highlighting bias and calibration needs (2023).
-- [Clark et al.](https://dx.doi.org/10.48550/arXiv.2305.13194) - Proposes the SEAHORSE dataset for evaluating multilingual, multifaceted summarization systems (2023).
-- [Lazić and Vujnovic](https://dx.doi.org/10.18653/v1/2023.semeval-1.87) - Proposes MINT, a multilingual textual intimacy dataset with tweets in 10 languages (2023).
-- [Lai et al.](https://dx.doi.org/10.48550/arXiv.2304.05613) - Evaluates ChatGPT on 37 languages across 7 tasks, revealing a performance gap compared to previous models (2023).
-- [Wu et al.](https://dx.doi.org/10.48550/arXiv.2308.09954) - Proposes Eva-KELLM, a benchmark for evaluating knowledge editing in LLMs with a focus on cross-lingual knowledge transfer (2023).
-- [Joshi et al.](https://dx.doi.org/10.48550/arXiv.2208.11640) - Introduces RING, a multilingual repair engine powered by a large language model trained on code for program repair in multiple languages (2022).
-- [Kumar et al.](https://dx.doi.org/10.1007/s10579-023-09696-7) - Discusses the ComMA dataset, a multilingual dataset annotated with tags for different types of aggression and bias in four languages (2023).
-- [Li et al.](https://dx.doi.org/10.18653/v1/2023.emnlp-main.187) - Proposes API-Bank, a benchmark for evaluating LLMs' effectiveness in utilizing external tools and APIs (2023).
-- [Bang et al.](https://arxiv.org/abs/2302.04023) - Presents a framework for evaluating interactive LLMs using a newly designed multimodal dataset (2023).
-- [Kuzman et al.](https://arxiv.org/abs/2201.03857) - Introduces the GINCO training dataset for automatic genre identification of web documents (2022).
 
 
 ###  **Translation and Language Understanding** <a name="section7"></a>
@@ -74,6 +72,7 @@ The repository is designed to support the growing interest within the community 
 - [Li et al.](https://dx.doi.org/10.48550/arXiv.2305.15083): Discusses the translation abilities of large language models in multilingual contexts.
 
 ###  **Safety** <a name="section8"></a>
+- [2023] [Stereotypes in Multilingual Large Language Models and Cross-Linguistic Leakage](https://dx.doi.org/10.48550/arXiv.2312.07141): Investigates the presence of stereotypes in multilingual LLMs and their cross-linguistic leakage, with an analysis of different languages' susceptibility.
 - [2023] [Multilingual Jailbreak Challenges in Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.06474): Explores multilingual jailbreak challenges in LLMs, addressing both unintentional and intentional risks, and proposes a safety fine-tuning framework.
 
 ### **Miscellaneous Studies and Surveys** <a name="section9"></a>
