@@ -10,8 +10,9 @@ The repository is designed to support the growing interest within the community 
 5. [Comparative Studies and Benchmarks](#section5)
 6. [Datasets And Benchmarks](#section6)
 7. [Translation and Language Understanding](#section7)
-8. [Safety](#section8)
-9. [Miscellaneous Studies and Surveys](#section9)
+8. [Instruction Tuning](#section8)
+9. [Safety](#section9)
+10. [Miscellaneous Studies and Surveys](#section10)
 
 
 ### **In-Context Learning and Prompting Strategies** <a name="section1"></a>
@@ -71,9 +72,11 @@ The repository is designed to support the growing interest within the community 
 - [Guerreiro et al.](https://dx.doi.org/10.1162/tacl_a_00615): Provides insights into the presence of hallucinations in multilingual translation models.
 - [Li et al.](https://dx.doi.org/10.48550/arXiv.2305.15083): Discusses the translation abilities of large language models in multilingual contexts.
 
-###  **Safety** <a name="section8"></a>
+###  **Instruction Tuning** <a name="section8"></a>
+
+###  **Safety** <a name="section9"></a>
 - [2023] [Stereotypes in Multilingual Large Language Models and Cross-Linguistic Leakage](https://dx.doi.org/10.48550/arXiv.2312.07141): Investigates the presence of stereotypes in multilingual LLMs and their cross-linguistic leakage, with an analysis of different languages' susceptibility.
 - [2023] [Multilingual Jailbreak Challenges in Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.06474): Explores multilingual jailbreak challenges in LLMs, addressing both unintentional and intentional risks, and proposes a safety fine-tuning framework.
 
-### **Miscellaneous Studies and Surveys** <a name="section9"></a>
+### **Miscellaneous Studies and Surveys** <a name="section10"></a>
 - [Pahune et al.](https://dx.doi.org/10.22214/ijraset.2023.54677): Emphasizes recent developments and efforts made for various kinds of LLMs, including multilingual language models.
