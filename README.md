@@ -80,7 +80,6 @@ Here is a list of papers related to instruction tuning applied to fine-tune larg
 - [2023] [CrossAlpaca: Cross-Lingual Alignment for Instruction-tuned Large Language Models](https://dx.doi.org/10.48550/arXiv.2308.14186): Proposes CrossAlpaca for improving cross-lingual abilities of It-LLMs, emphasizing the need for semantic alignment beyond non-English data instruction tuning.
 - [2023] [FIAT: Fusing Instruction and Parameter Adaptation for Multilingual Large Language Models](https://dx.doi.org/10.48550/arXiv.2309.04663): Introduces FIAT, blending in-context learning and full fine-tuning, outperforming other methods across multilingual tasks.
 - [2023] [M^3IT: Multimodal, Multilingual Instruction Tuning Dataset](https://dx.doi.org/10.48550/arXiv.2306.04387): Introduces M^3IT dataset for optimizing vision-language model alignment, featuring 2.4 million instances in 80 languages.
-- [2022] [Multilingual Adaptive Fine-Tuning for Pre-trained Language Models on African Languages](https://arxiv.org/abs/2204.06487): Explores adaptive fine-tuning for improving pre-trained model performance on African languages with reduced model size.
 - [2023] [A Survey on Instruction Tuning for Large Language Models](https://dx.doi.org/10.48550/arXiv.2308.10792): A comprehensive survey covering the methodology, dataset construction, training, applications, and future avenues of instruction tuning.
 - [2023] [Comparative Study on LoRA-Based Fine-Tuning for Instruction-Tuning of Large Language Models](https://dx.doi.org/10.48550/arXiv.2304.08109): Investigates the benefits of LoRA-based fine-tuning over full-parameter tuning for instruction-tuning, especially for Chinese LLMs.
 <!-- - [2023] [Security Concerns in Instruction-Tuning Models for Large Language Models](https://dx.doi.org/10.48550/arXiv.2305.14710): Raises security concerns about instruction-tuning in LLMs, showing potential for backdoor attacks. -->
@@ -96,7 +95,8 @@ Here is a list of papers related to instruction tuning applied to fine-tune larg
 <!-- - [2023] [ChatSpot: A Multimodal LLM Supporting Precise Referring Instructions](https://dx.doi.org/10.48550/arXiv.2307.09474) - Discusses a multimodal LLM for precise instruction following. -->
 <!--  - [2023] [OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs](https://dx.doi.org/10.48550/arXiv.2309.03876) - Presents OpinionGPT, a model for investigating biases in instruction-tuned LLMs.-->
 <!-- - [2023] [Instruction Tuning for Writing Assistance with LLaMa](https://dx.doi.org/10.48550/arXiv.2305.13225) - Focuses on fine-tuning LLaMa for writing tasks using instruction tuning.-->
-
+- [2022] [Multilingual Adaptive Fine-Tuning for Pre-trained Language Models on African Languages](https://arxiv.org/abs/2204.06487): Explores adaptive fine-tuning for improving pre-trained model performance on African languages with reduced model size.
+  
 ###  **Safety** <a name="section9"></a>
 - [2023] [Stereotypes in Multilingual Large Language Models and Cross-Linguistic Leakage](https://dx.doi.org/10.48550/arXiv.2312.07141): Investigates the presence of stereotypes in multilingual LLMs and their cross-linguistic leakage, with an analysis of different languages' susceptibility.
 - [2023] [Multilingual Jailbreak Challenges in Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.06474): Explores multilingual jailbreak challenges in LLMs, addressing both unintentional and intentional risks, and proposes a safety fine-tuning framework.
