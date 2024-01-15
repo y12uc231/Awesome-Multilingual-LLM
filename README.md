@@ -51,20 +51,20 @@ Certainly! Here is a table of contents for the "Awesome-Multilingual-LLM" reposi
 - [2022] [Bootstrapping Multilingual Semantic Parsers using Large Language Models](https://dx.doi.org/10.48550/arXiv.2210.07313): Examines the effectiveness of LLMs in translating English datasets into multiple languages for multilingual semantic parsing. 
 
 
-### 2. **Performance and Capabilities in Specific Languages**
+### 2. **Performance and Capabilities in Specific Languages** <a name="section2"></a>
 - [Holmström et al.](https://www.aclweb.org/anthology/2023.resourceful-1.13): Explores the performance of English and multilingual LLMs in Swedish.
 
-### 3. **Challenges and Limitations in Multilingual LLMs**
+### 3. **Challenges and Limitations in Multilingual LLMs** <a name="section3"></a>
 - [Zhu et al.](https://dx.doi.org/10.48550/arXiv.2304.04675): Investigates the advantages and challenges in multilingual machine translation using LLMs.
 
-### 4. **Multilingual LLMs in Programming and Code**
+### 4. **Multilingual LLMs in Programming and Code** <a name="section4"></a>
 - [Joshi et al.](https://dx.doi.org/10.48550/arXiv.2208.11640): Introduces RING, a multilingual repair engine powered by a language model trained on code.
 
-### 5. **Comparative Studies and Benchmarks**
+### 5. **Comparative Studies and Benchmarks** <a name="section5"></a>
 - [Ahuja et al.](https://dx.doi.org/10.48550/arXiv.2211.05100): Discusses the development and evaluation of BLOOM, a 176B-parameter open-access multilingual language model.
 - [Lai et al.](https://dx.doi.org/10.48550/arXiv.2304.05613): Evaluates ChatGPT and other LLMs on multilingual NLP tasks.
 
-### 6. **Datasets And Benchmarks**
+### 6. **Datasets And Benchmarks** <a name="section6"></a>
 
 1. [Ladhak et al.](https://dx.doi.org/10.18653/v1/2020.findings-emnlp.360) - Introduces WikiLingua, a benchmark dataset for cross-lingual abstractive summarization in 18 languages from WikiHow (2020).
    
@@ -108,9 +108,9 @@ Certainly! Here is a table of contents for the "Awesome-Multilingual-LLM" reposi
 
 
 
-### 7. **Translation and Language Understanding**
+### 7. **Translation and Language Understanding** <a name="section7"></a>
 - [Guerreiro et al.](https://dx.doi.org/10.1162/tacl_a_00615): Provides insights into the presence of hallucinations in multilingual translation models.
 - [Li et al.](https://dx.doi.org/10.48550/arXiv.2305.15083): Discusses the translation abilities of large language models in multilingual contexts.
 
-### 8. **Miscellaneous Studies and Surveys**
+### 8. **Miscellaneous Studies and Surveys** <a name="section8"></a>
 - [Pahune et al.](https://dx.doi.org/10.22214/ijraset.2023.54677): Emphasizes recent developments and efforts made for various kinds of LLMs, including multilingual language models.
