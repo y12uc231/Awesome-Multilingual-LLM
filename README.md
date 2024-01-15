@@ -4,45 +4,38 @@ The repository is designed to support the growing interest within the community 
 
 
 ### 1. **In-Context Learning and Prompting Strategies**
-- [2024] [Boosting Multilingual Translation with Prompt Strategies and Cross-Lingual Consistency](https://arxiv.org/abs/2401.05861): This paper focuses on enhancing multilingual translation in large language models through prompt strategies and a novel cross-lingual consistency regularization.
 
-- [2023] [Adapt in Contexts: Retrieval-Augmented Domain Adaptation via In-Context Learning](https://dx.doi.org/10.48550/arXiv.2311.11551): Explores unsupervised domain adaptation in multilingual large language models using in-context learning and retrieval-augmented techniques.
+- [2023] [Stereotypes in Multilingual Large Language Models and Cross-Linguistic Leakage](https://dx.doi.org/10.48550/arXiv.2312.07141): Investigates the presence of stereotypes in multilingual LLMs and their cross-linguistic leakage, with an analysis of different languages' susceptibility.
 
-- [2023] [Improving Robustness of Large Language Models in In-Context Learning with Natural Language Explanations](https://dx.doi.org/10.48550/arXiv.2311.07556): Investigates the use of natural language explanations to enhance the robustness of large language models in in-context learning.
+- [2023] [Multilingual Jailbreak Challenges in Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.06474): Explores multilingual jailbreak challenges in LLMs, addressing both unintentional and intentional risks, and proposes a safety fine-tuning framework.
 
-- [2023] [Instruct Me More: Enhancing Visual In-Context Learning](https://dx.doi.org/10.48550/arXiv.2311.03648): Introduces a method called Instruct Me More to improve the effectiveness of visual in-context learning.
+- [2023] [All Languages Matter: On the Multilingual Safety of Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.00905): Develops a multilingual safety benchmark for LLMs, demonstrating the need for safety alignment in non-English languages.
 
-- [2023] [Chain-of-Thought Prompting for Few-Shot Knowledge Base Question Generation](https://dx.doi.org/10.48550/arXiv.2310.08395): Discusses Chain-of-Thought prompting as an in-context learning strategy for reasoning in Knowledge Base Question Generation tasks.
+- [2023] [CulturaX: A Large, Multilingual Dataset for Training Large Language Models](https://dx.doi.org/10.48550/arXiv.2309.09400): Introduces CulturaX, a large, multilingual dataset for training LLMs in 167 languages, emphasizing quality with careful data cleaning and deduplication.
 
-- [2023] [Prompt Engineering in Large Language Models for Automated Software Engineering Tasks](https://dx.doi.org/10.48550/arXiv.2310.10508): Analyzes the effectiveness of different prompting strategies in large language models for automated software engineering tasks.
+- [2023] [Multilingual Code Co-evolution using Large Language Models](https://dx.doi.org/10.1145/3611643.3616350): Discusses the co-evolution of code in multiple languages using LLMs.
 
-- [2023] [Large Language Models as Post Hoc Explainers](https://dx.doi.org/10.48550/arXiv.2310.05797): Presents a framework to evaluate the effectiveness of Large Language Models in explaining other predictive models.
+- [2023] [Prompting Large Language Models with Speech Recognition Abilities](https://dx.doi.org/10.48550/arXiv.2307.11795): Presents a method to enhance LLMs with multilingual speech recognition capabilities using a small audio encoder.
 
-- [2023] [Self-Contemplation Prompting Strategy for In-Context Learning](https://dx.doi.org/10.48550/arXiv.2309.14681): Proposes a self-contempl
+- [2023] [M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Large Language Models](https://dx.doi.org/10.48550/arXiv.2306.05179): Introduces a comprehensive benchmark for evaluating the performance of LLMs across diverse languages.
 
-ation prompting strategy as an alternative to human-generated demonstrations for in-context learning.
+- [2023] [BigTranslate: Augmenting LLMs with Multilingual Translation Capability over 100 Languages](https://arxiv.org/abs/2305.18098): Presents BigTranslate, a model augmenting LLMs with extensive multilingual translation capabilities.
 
-- [2023] [Prompting Strategies for Large Language Models in Zero-Shot Clinical Natural Language Processing](https://dx.doi.org/10.48550/arXiv.2309.08008): Evaluates various prompt types for large language models in the clinical domain.
+- [2023] [Eliciting Translation Ability of LLMs via Multilingual Finetuning with Translation Instructions](https://dx.doi.org/10.48550/arXiv.2305.15083): Analyzes how multilingual LLMs carry out translation instructions for different languages through multilingual finetuning.
 
-- [2023] [Ambiguity-Aware In-Context Learning with Large Language Models](https://dx.doi.org/10.48550/arXiv.2309.07900): Explores how to select good demonstrations for in-context learning considering the LLM's knowledge about the task.
+- [2023] [BUFFET: Benchmarking LLMs for Few-shot Cross-lingual Transfer](https://dx.doi.org/10.48550/arXiv.2305.14857): Introduces BUFFET, a benchmark for evaluating multilingual LLMs in few-shot cross-lingual transfer across various tasks and languages.
 
-- [2023] [Backdoor Attacks for In-Context Learning with Language Models](https://dx.doi.org/10.48550/arXiv.2307.14692): Explores developing backdoor attacks in large language models with in-context learning capability.
+- [2023] [ChatGPT Beyond English: Comprehensive Evaluation in Multilingual Learning](https://dx.doi.org/10.48550/arXiv.2304.05613): Evaluates the performance of ChatGPT in multilingual learning across 7 different tasks and 37 languages.
 
-- [2023] [Enhancing In-Context Learning with Answer Feedback for Multi-Span Question Answering](https://dx.doi.org/10.48550/arXiv.2306.04508): Proposes a novel way of using labeled data to improve in-context learning performance in multi-span question answering.
+- [2023] [Multilingual Machine Translation with LLMs: Empirical Results and Analysis](https://dx.doi.org/10.48550/arXiv.2304.04675): Investigates the use of LLMs for multilingual machine translation, evaluating popular models including ChatGPT and GPT-4.
 
-- [2023] [ExpertPrompting: Instructing Large Language Models to be Distinguished Experts](https://dx.doi.org/10.48550/arXiv.2305.14688): Introduces ExpertPrompting, a prompting strategy that improves the answering quality of large language models.
+- [2023] [Implications of LLMs for Dental Medicine](https://dx.doi.org/10.1111/jerd.13046): Discusses the potential benefits and risks of using LLMs like ChatGPT for dental medicine, with a focus on multilingual communication.
 
-- [2023] [Prompt Design Strategies for Large Language Models in Text-to-SQL Systems](https://dx.doi.org/10.48550/arXiv.2305.12586): Investigates demonstration selection methods and instruction formats for utilizing large language models in Text-to-SQL systems.
+- [2023] [Massively Multilingual Shallow Fusion with LLMs](https://dx.doi.org/10.1109/ICASSP49357.2023.10094796): Explores using a single multilingual language model to improve automatic speech recognition in multiple languages.
 
-- [2023] [Chain-of-Dictionary Prompting Elicits Translation in Large Language Models](https://dx.doi.org/10.48550/arXiv.
+- [2022] [BigScience: Social Construction of a Multilingual Large Language Model](https://dx.doi.org/10.48550/arXiv.2212.04960): Discusses BigScience, a collaborative project that created a multilingual dataset and trained BLOOM, a multilingual LLM.
 
-2305.06575): Introduces a method called Chain-of-Dictionary Prompting to enhance multilingual neural machine translation in large language models.
-
-- [2023] [Generating Code Comments with Large Language Models](https://arxiv.org/abs/2304.11384): Investigates the use of large language models to generate code comments fulfilling diverse intents with in-context learning and prompts.
-
-- [2023] [Interpretable Mental Health Analysis with Large Language Models](https://dx.doi.org/10.18653/v1/2023.emnlp-main.370): Evaluates the mental health analysis and emotional reasoning ability of large language models, focusing on different prompting strategies.
-
-- [2023] [Fairness-guided Few-shot Prompting for Large Language Models](https://dx.doi.org/10.48550/arXiv.2303.13217): Explores constructing prompts to improve in-context learning in large language models, introducing a metric to evaluate predictive bias and a search strategy for near-optimal prompts.
+- [2022] [Bootstrapping Multilingual Semantic Parsers using Large Language Models](https://dx.doi.org/10.48550/arXiv.2210.07313): Examines the effectiveness of LLMs in translating English datasets into multiple languages for multilingual semantic parsing.
 
 
 ### 2. **Performance and Capabilities in Specific Languages**
@@ -60,25 +53,47 @@ ation prompting strategy as an alternative to human-generated demonstrations for
 
 ### 6. **Datasets And Benchmarks**
 
-- **Multilingual Multimodal Learning with Machine Translated Text** by Chen Qiu et al. investigates using machine-translated English multimodal data for training multilingual LLMs. They propose a framework called TD-MML and demonstrate its effectiveness in the IGLUE benchmark across 20 languages ([Qiu et al.](https://dx.doi.org/10.48550/arXiv.2210.13134)).
+1. [Ladhak et al.](https://dx.doi.org/10.18653/v1/2020.findings-emnlp.360) - Introduces WikiLingua, a benchmark dataset for cross-lingual abstractive summarization in 18 languages from WikiHow (2020).
+   
+2. [Gupta and Srikumar](https://dx.doi.org/10.18653/v1/2021.acl-short.86) - Presents X-Fact, a multilingual dataset for factual verification in 25 languages labeled for veracity by expert fact-checkers (2021).
 
-- **The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset** by Hugo Laurenccon et al. presents the Responsible Open-science Open-collaboration Text Sources (ROOTS) corpus, a 1.6TB dataset spanning 59 languages, used to train the BigScience Large Open-science Open-access Multilingual (BLOOM) language model ([Laurenccon et al.](https://dx.doi.org/10.48550/arXiv.2303.03915)).
+3. [Nguyen et al.](https://dx.doi.org/10.48550/arXiv.2309.09400) - Proposes CulturaX, with 6.3 trillion tokens in 167 languages, for training multilingual LLMs (2023).
 
-- **XLM-T: Multilingual Language Models in Twitter for Sentiment Analysis and Beyond** by Francesco Barbieri et al. introduces a dataset for multilingual LLMs using tweets in over thirty languages, along with sentiment analysis Twitter datasets in eight different languages ([Barbieri et al.](https://arxiv.org/abs/2104.12250)).
+4. [Barrière et al.](https://www.aclweb.org/anthology/2022.politicalnlp-1.3) - Introduces a dataset of online debates in English for multilingual stance classification related to the European Green Deal (2022).
 
-- **Generating Extended and Multilingual Summaries with Pre-trained Transformers** by Rémi Calizzano et al. introduces the WikinewsSum dataset for multilingual summarization, including news articles in seven languages tailored for extended summaries ([Calizzano et al.](https://www.aclweb.org/anthology/2022.lrec-1.175)).
+5. [Wang et al.](https://dx.doi.org/10.48550/arXiv.2308.13387) - Proposes a dataset for evaluating safeguards in LLMs and trains classifiers achieving results similar to GPT-4 (2023).
 
-- A paper by Po-Yao (Bernie) Huang et al. proposes Multi-HowTo100M, a multilingual instructional video dataset for pre-training models to improve video search in non-English languages ([Huang et al.](https://dx.doi.org/10.18653/V1/2021.NAACL-MAIN.195)).
+6. [Laperriere et al.](https://www.aclweb.org/anthology/2022.lrec-1.171) - Updates the French MEDIA SLU dataset for spoken language understanding, integrated into the SpeechBrain toolkit (2022).
 
-- **PAWS-X: A Cross-lingual Adversarial Dataset for Paraphrase Identification** by Yinfei Yang et al. proposes PAWS-X, consisting of human-translated paraphrase identification pairs in six languages, to evaluate multilingual LLMs ([Yang et al.](https://dx.doi.org/10.18653/v1/D19-1382)).
+7. [Hu et al.](https://dx.doi.org/10.1162/tacl_a_00609) - Introduces the Multi3WOZ dataset for training and evaluating multilingual and cross-lingual task-oriented dialog systems (2023).
 
-- **African News Corpus** by David Ifeoluwa Adelani et al. covers 16 African languages, including 8 languages not part of any existing evaluation dataset, demonstrating the effectiveness of leveraging high-quality translation data ([Adelani et al.](https://dx.doi.org/10.48550/arXiv.2205.02022)).
+8. [Zhu et al.](https://dx.doi.org/10.1609/aaai.v36i10.21434) - Proposes the CoST dataset with parallel data from 7 programming languages for code snippet translation (2022).
 
-- **REDFM: a Filtered and Multilingual Relation Extraction Dataset** by Pere-Lluís Huguet Cabot et al. introduces SREDFM and REDFM datasets for training and evaluating multilingual relation extraction systems ([Cabot et al.](https://dx.doi.org/10.48550/arXiv.2306.09802)).
+9. [Ahuja et al.](https://dx.doi.org/10.48550/arXiv.2303.12528) - Presents MEGA, benchmarking generative LLMs across 70 languages and comparing them to non-autoregressive models (2023).
 
--  **GINCO Training Dataset** by Taja Kuzman et al. consists of 1,125 Slovenian web documents for genre identification, showing that Transformer-based models perform well on this task ([Kuzman et al.](https://arxiv.org/abs/2201.03857)).
-- [Li et al.](https://dx.doi.org/10.48550/arXiv.2306.04387): Introduces the M$^3$IT dataset for optimizing the alignment of vision-language models with human instructions.
-- 
+10. [Pouran Ben Veyseh et al.](https://dx.doi.org/10.48550/arXiv.2211.05955) - Introduces MEE, a Multilingual Event Extraction dataset with over 50K event mentions in 8 languages (2022).
+
+11. [Hada et al.](https://dx.doi.org/10.48550/arXiv.2309.07462) - Investigates Large Language Model-based evaluators for multilingual evaluation, highlighting bias and calibration needs (2023).
+
+12. [Clark et al.](https://dx.doi.org/10.48550/arXiv.2305.13194) - Proposes the SEAHORSE dataset for evaluating multilingual, multifaceted summarization systems (2023).
+
+13. [Lazić and Vujnovic](https://dx.doi.org/10.18653/v1/2023.semeval-1.87) - Proposes MINT, a multilingual textual intimacy dataset with tweets in 10 languages (2023).
+
+14. [Lai et al.](https://dx.doi.org/10.48550/arXiv.2304.05613) - Evaluates ChatGPT on 37 languages across 7 tasks, revealing a performance gap compared to previous models (2023).
+
+15. [Wu et al.](https://dx.doi.org/10.48550/arXiv.2308.09954) - Proposes Eva-KELLM, a benchmark for evaluating knowledge editing in LLMs with a focus on cross-lingual knowledge transfer (2023).
+
+16. [Joshi et al.](https://dx.doi.org/10.48550/arXiv.2208.11640) - Introduces RING, a multilingual repair engine powered by a large language model trained on code for program repair in multiple languages (2022).
+
+17. [Kumar et al.](https://dx.doi.org/10.1007/s10579-023-09696-7) - Discusses the ComMA dataset, a multilingual dataset annotated with tags for different types of aggression and bias in four languages (2023).
+
+18. [Li et al.](https://dx.doi.org/10.18653/v1/2023.emnlp-main.187) - Proposes API-Bank, a benchmark for evaluating LLMs' effectiveness in utilizing external tools and APIs (2023).
+
+19. [Bang et al.](https://arxiv.org/abs/2302.04023) - Presents a framework for evaluating interactive LLMs using a newly designed multimodal dataset (2023).
+
+20. [Kuzman et al.](https://arxiv.org/abs/2201.03857) - Introduces the GINCO training dataset for automatic genre identification of web documents (2022).
+
+
 
 ### 7. **Translation and Language Understanding**
 - [Guerreiro et al.](https://dx.doi.org/10.1162/tacl_a_00615): Provides insights into the presence of hallucinations in multilingual translation models.
