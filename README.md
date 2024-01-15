@@ -21,7 +21,6 @@ The repository is designed to support the growing interest within the community 
 - [2023] [Improving Text-to-SQL Systems Using Large Language Models and In-Context Learning: A Systematic Investigation](https://dx.doi.org/10.48550/arXiv.2305.12586) by Linyong Nan et al.
 - [2023] [CARP: Enhancing Performance of Large-Scale Language Models in Text Classification with Clue and Reasoning Prompting](https://dx.doi.org/10.48550/arXiv.2305.08377) by Xiaofei Sun et al.
 
-These papers represent the leading research in the field of in-context learning and prompting strategies within the context of multilingual Large Language Models.
 <!-- - [2023] [Stereotypes in Multilingual Large Language Models and Cross-Linguistic Leakage](https://dx.doi.org/10.48550/arXiv.2312.07141): Investigates the presence of stereotypes in multilingual LLMs and their cross-linguistic leakage, with an analysis of different languages' susceptibility.
 
 - [2023] [Multilingual Jailbreak Challenges in Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.06474): Explores multilingual jailbreak challenges in LLMs, addressing both unintentional and intentional risks, and proposes a safety fine-tuning framework.
