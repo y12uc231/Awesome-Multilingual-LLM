@@ -4,8 +4,25 @@ The repository is designed to support the growing interest within the community 
 
 
 ### 1. **In-Context Learning and Prompting Strategies**
+- [2024] [Boosting Many-to-Many Multilingual Translation Performance with Large Language Models via Prompt Strategies and Cross-Lingual Consistency Regularization (XConST)](https://arxiv.org/abs/2401.05861) by Pengzhi Gao et al.
+- [2023] [Unsupervised Domain Adaptation for Language Models in In-Context Learning](https://dx.doi.org/10.48550/arXiv.2311.11551) by Quanyu Long, Wenya Wang, Sinno Jialin Pan
+- [2023] [Improving Robustness of Large Language Models in In-Context Learning with Natural Language Explanations](https://dx.doi.org/10.48550/arXiv.2311.07556) by Xuanli He et al.
+- [2023] [Instruct Me More (InMeMo): Enhancing In-Context Learning Performance in Computer Vision Tasks](https://dx.doi.org/10.48550/arXiv.2311.03648) by Jiahao Zhang et al.
+- [2023] [KQG-CoT: A Prompting Method for Question Generation over Knowledge Bases](https://dx.doi.org/10.48550/arXiv.2310.08395) by Yuanyuan Liang et al.
+- [2023] [A Comparative Study of Different Prompting Strategies in Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.10508) by Jiho Shin et al.
+- [2023] [Explaining Predictive Models using Large Language Models with Multiple Prompting Strategies](https://dx.doi.org/10.48550/arXiv.2310.05797) by Nicholas Kroeger et al.
+- [2023] [Self-Contemplation Prompting: Eliminating the Need for Human-Generated Demonstrations in In-Context Learning](https://dx.doi.org/10.48550/arXiv.2309.14681) by Rui Li, Guoyin Wang, Jiwei Li
+- [2023] [Empirical Evaluation of Prompt Engineering for Large Language Models in Clinical Natural Language Processing](https://dx.doi.org/10.48550/arXiv.2309.08008) by S. Sivarajkumar et al.
+- [2023] [Good Demonstrations for In-Context Learning in Large Language Models](https://dx.doi.org/10.48550/arXiv.2309.07900) by Lingyu Gao et al.
+- [2023] [Backdoor Attacks on Large Language Models with In-Context Learning](https://dx.doi.org/10.48550/arXiv.2307.14692) by Nikhil Kandpal et al.
+- [2023] [Labeled Data Informed Prompting for In-Context Learning in Large Language Models](https://dx.doi.org/10.48550/arXiv.2306.04508) by Zixian Huang et al.
+- [2023] [Prompt Space: A New Paradigm for Prompt Engineeringin Large Language Models](https://dx.doi.org/10.48550/arXiv.2306.03799) by Fobo Shi et al.
+- [2023] [ExpertPrompting: Improving the Answering Quality of Large Language Models with Customized Expert Identity Descriptions](https://dx.doi.org/10.48550/arXiv.2305.14688) by Benfeng Xu et al.
+- [2023] [Improving Text-to-SQL Systems Using Large Language Models and In-Context Learning: A Systematic Investigation](https://dx.doi.org/10.48550/arXiv.2305.12586) by Linyong Nan et al.
+- [2023] [CARP: Enhancing Performance of Large-Scale Language Models in Text Classification with Clue and Reasoning Prompting](https://dx.doi.org/10.48550/arXiv.2305.08377) by Xiaofei Sun et al.
 
-- [2023] [Stereotypes in Multilingual Large Language Models and Cross-Linguistic Leakage](https://dx.doi.org/10.48550/arXiv.2312.07141): Investigates the presence of stereotypes in multilingual LLMs and their cross-linguistic leakage, with an analysis of different languages' susceptibility.
+These papers represent the leading research in the field of in-context learning and prompting strategies within the context of multilingual Large Language Models.
+<!-- - [2023] [Stereotypes in Multilingual Large Language Models and Cross-Linguistic Leakage](https://dx.doi.org/10.48550/arXiv.2312.07141): Investigates the presence of stereotypes in multilingual LLMs and their cross-linguistic leakage, with an analysis of different languages' susceptibility.
 
 - [2023] [Multilingual Jailbreak Challenges in Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.06474): Explores multilingual jailbreak challenges in LLMs, addressing both unintentional and intentional risks, and proposes a safety fine-tuning framework.
 
@@ -35,7 +52,7 @@ The repository is designed to support the growing interest within the community 
 
 - [2022] [BigScience: Social Construction of a Multilingual Large Language Model](https://dx.doi.org/10.48550/arXiv.2212.04960): Discusses BigScience, a collaborative project that created a multilingual dataset and trained BLOOM, a multilingual LLM.
 
-- [2022] [Bootstrapping Multilingual Semantic Parsers using Large Language Models](https://dx.doi.org/10.48550/arXiv.2210.07313): Examines the effectiveness of LLMs in translating English datasets into multiple languages for multilingual semantic parsing.
+- [2022] [Bootstrapping Multilingual Semantic Parsers using Large Language Models](https://dx.doi.org/10.48550/arXiv.2210.07313): Examines the effectiveness of LLMs in translating English datasets into multiple languages for multilingual semantic parsing. -->
 
 
 ### 2. **Performance and Capabilities in Specific Languages**
