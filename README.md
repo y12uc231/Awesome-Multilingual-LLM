@@ -18,6 +18,7 @@ The repository is designed to support the growing interest within the community 
 
 
 ### **In-Context Learning and Prompting Strategies** <a name="section1"></a>
+- [2024] [Translate-and-Revise: Boosting Large Language Models for Constrained Translation](https://aclanthology.org/2024.ccl-1.82/): Proposes a revision step that points out the translation constraints (e.g., terminology) an LLM has not yet met and prompts it to revise its translation, improving constraint satisfaction while keeping translation quality.
 - [2024] [Boosting Many-to-Many Multilingual Translation Performance with Large Language Models via Prompt Strategies and Cross-Lingual Consistency Regularization (XConST)](https://arxiv.org/abs/2401.05861) by Pengzhi Gao et al.
 - [2023] [All Languages Matter: On the Multilingual Safety of Large Language Models](https://dx.doi.org/10.48550/arXiv.2310.00905): Develops a multilingual safety benchmark for LLMs, demonstrating the need for safety alignment in non-English languages.
 - [2023] [Multilingual Code Co-evolution using Large Language Models](https://dx.doi.org/10.1145/3611643.3616350): Discusses the co-evolution of code in multiple languages using LLMs.
