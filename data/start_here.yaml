@@ -1,0 +1,42 @@
+- papers: ["Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers"]
+  labels: {"Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers": "Multilingual LLM survey"}
+  why: A map of the field, with resources and a taxonomy of methods.
+- papers: ["Unsupervised Cross-lingual Representation Learning at Scale", "mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer"]
+  labels: {"Unsupervised Cross-lingual Representation Learning at Scale": "XLM-R", "mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer": "mT5"}
+  why: The pre-LLM multilingual models, and the first clear look at the "curse of multilinguality".
+- papers: ["BLOOM: A 176B-Parameter Open-Access Multilingual Language Model", "Crosslingual Generalization through Multitask Finetuning"]
+  labels: {"BLOOM: A 176B-Parameter Open-Access Multilingual Language Model": "BLOOM", "Crosslingual Generalization through Multitask Finetuning": "BLOOMZ & mT0"}
+  why: An open 176B model trained on 46 natural languages, and evidence that multitask finetuning in English transfers to other languages.
+- papers: ["Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model", "Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning"]
+  labels: {"Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model": "Aya Model", "Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning": "Aya Dataset"}
+  why: Instruction tuning in 101 languages with human-written data collected from fluent speakers.
+- papers: ["Turning English-centric LLMs Into Polyglots: How Much Multilinguality Is Needed?", "Multilingual Instruction Tuning With Just a Pinch of Multilinguality"]
+  labels: {"Turning English-centric LLMs Into Polyglots: How Much Multilinguality Is Needed?": "Turning English-centric LLMs into polyglots", "Multilingual Instruction Tuning With Just a Pinch of Multilinguality": "A pinch of multilinguality"}
+  why: A small amount of multilingual instruction data goes a long way.
+- papers: ["Do Llamas Work in English? On the Latent Language of Multilingual Transformers", "Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models"]
+  labels: {"Do Llamas Work in English? On the Latent Language of Multilingual Transformers": "Do Llamas work in English?", "Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models": "Language-specific neurons"}
+  why: What happens inside an English-dominated model when it reads and writes other languages.
+- papers: ["Language Model Tokenizers Introduce Unfairness Between Languages"]
+  labels: {"Language Model Tokenizers Introduce Unfairness Between Languages": "Tokenizer unfairness"}
+  why: The same text can cost many times more tokens in some languages than in others.
+- papers: ["MEGA: Multilingual Evaluation of Generative AI", "Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation", "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge"]
+  labels: {"MEGA: Multilingual Evaluation of Generative AI": "MEGA", "Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation": "Global-MMLU", "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge": "INCLUDE"}
+  why: Evaluating LLMs across many languages, and why translated English benchmarks are not enough.
+- papers: ["Language Models are Multilingual Chain-of-Thought Reasoners", "Crosslingual Reasoning through Test-Time Scaling"]
+  labels: {"Language Models are Multilingual Chain-of-Thought Reasoners": "MGSM", "Crosslingual Reasoning through Test-Time Scaling": "Crosslingual test-time scaling"}
+  why: Reasoning in other languages, from chain-of-thought prompting to today's reasoning models.
+- papers: ["A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models", "Tower: An Open Multilingual Large Language Model for Translation-Related Tasks"]
+  labels: {"A Paradigm Shift in Machine Translation: Boosting Translation Performance of Large Language Models": "ALMA", "Tower: An Open Multilingual Large Language Model for Translation-Related Tasks": "Tower"}
+  why: How general LLMs became strong translators.
+- papers: ["Understanding and Mitigating Language Confusion in LLMs"]
+  labels: {"Understanding and Mitigating Language Confusion in LLMs": "Language confusion"}
+  why: Models often answer in the wrong language, and this measures how often and why.
+- papers: ["BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages", "Towards Measuring and Modeling “Culture” in LLMs: A Survey"]
+  labels: {"BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages": "BLEnD", "Towards Measuring and Modeling “Culture” in LLMs: A Survey": "Culture in LLMs survey"}
+  why: Language and culture are linked. This is how cultural knowledge in LLMs is measured.
+- papers: ["Low-Resource Languages Jailbreak GPT-4", "Multilingual Jailbreak Challenges in Large Language Models"]
+  labels: {"Low-Resource Languages Jailbreak GPT-4": "Low-resource languages jailbreak GPT-4", "Multilingual Jailbreak Challenges in Large Language Models": "MultiJail"}
+  why: Safety training done mostly in English leaves gaps in other languages.
+- papers: ["A Benchmark for Learning to Translate a New Language from One Grammar Book"]
+  labels: {"A Benchmark for Learning to Translate a New Language from One Grammar Book": "MTOB"}
+  why: Learning a language that has almost no web data from a single grammar book.
